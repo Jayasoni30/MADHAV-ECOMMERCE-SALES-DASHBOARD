@@ -37,4 +37,7 @@ An interactive **Sales Dashboard** built using Power BI to analyze business perf
 ✔ Interactive dashboard
 ✔ Business-focused insights
 ✔ Portfolio-ready
+
+## screenshot dashboard
+*https://github.com/Jayasoni30/MADHAV-ECOMMERCE-SALES-DASHBOARD/blob/main/dashboard%20view.png
 # MADHAV-ECOMMERCE-SALES-DASHBOARD
